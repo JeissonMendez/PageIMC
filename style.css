@@ -73,3 +73,21 @@ button:hover {
     padding: 20px;
     font-size: 25px;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin: 50px auto;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #94ce8f;
+}
+
